@@ -1,0 +1,30 @@
+.case {
+    padding: 80px 0px 100px;
+    background: #FAFAFA;
+    text-align: center;
+}
+
+.case__title {
+    margin-bottom: 17px;
+}
+
+.case__subtitle {
+    max-width: 825px;
+    margin: 0 auto 40px;
+}
+
+.energy__title {
+    margin-top: 160px;
+    margin-bottom: 40px;
+}
+
+.energy__num {
+    font-size: 210px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.energy__subtitle {
+    max-width: 403px;
+    margin: 0 auto;
+}

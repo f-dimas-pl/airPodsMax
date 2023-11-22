@@ -1,0 +1,12 @@
+@import './base.css';
+@import './vars.css';
+@import './header.css';
+@import './menu.css';
+@import './choose-color.css';
+@import './composition.css';
+@import './case.css';
+@import './audio.css';
+@import './footer.css';
+@import './media.css';
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700&display=swap');
+

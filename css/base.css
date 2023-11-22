@@ -1,0 +1,48 @@
+.container {
+    max-width: 1220px;
+    padding: 0px 10px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: var(--font-main);
+    font-size: 16px;
+    line-height: 1.2;
+    color: var(--black);
+    font-weight: 500;
+}
+
+.btn {
+    font-size: 16px;
+    font-weight: 700;
+    background: var(--black);
+    border-radius: 30px;
+    padding: 15px 58px;
+    color: var(--white);
+    transition: var(--tr);
+    text-transform: uppercase;
+}
+
+.btn:hover {
+    background: rgba(255, 255, 255, 0.40);
+    backdrop-filter: blur(2px);
+    color: var(--black);
+}
+
+.btn:active {
+    position: relative;
+    bottom: -3px;
+}
+
+a {
+    transition: var(--tr);
+}
+
+.main__title {
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.none {
+    display: none;
+}

@@ -1,0 +1,35 @@
+.composition {
+    padding-bottom: 180px;
+}
+
+.composition__title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.composition__subtitle {
+    text-align: center;
+    max-width: 653px;
+    margin: 0 auto 40px;
+}
+
+.composition__inner {
+    display: flex;
+    justify-content: space-between;
+    gap: 150px;
+    max-width: 625px;
+    margin: 0 auto;
+
+}
+
+.composition__inner-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.composition__inner-text p {
+    max-width: 230px;
+}
+
